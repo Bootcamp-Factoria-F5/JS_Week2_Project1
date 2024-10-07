@@ -54,8 +54,8 @@ console.log (user);
 //Ejercicio 6: Crea una varible que sume 2 números e imprime el resultado en consola.
 
 //Escribe tu código aquí
-
-
+let suma = 2+2;
+console.log(suma);
 
 
 //Ejercicio 7: Crea una varible que reste 2 números e imprime el resultado en consola.
