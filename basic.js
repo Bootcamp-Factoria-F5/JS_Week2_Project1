@@ -9,7 +9,8 @@ console.log('Hola soy tu consola y juntas vamos a aprender Javascript')
 //Ejercicio 1: Imprime en la consola "Bienvenida al bootcamp de FemCoders de Factoría F5" y mira en tu navegador si sale el resultado.
 
 //Escribe tu código aquí
-
+let texto = "Bienvenida al bootcamp de FemCoders de Factoría F5";
+console.log("Bienvenida al bootcamp de FemCoders de Factoría F5");
 
 
 
