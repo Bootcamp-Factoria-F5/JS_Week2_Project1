@@ -61,7 +61,8 @@ console.log(suma);
 //Ejercicio 7: Crea una varible que reste 2 números e imprime el resultado en consola.
 
 //Escribe tu código aquí
-
+let resta = 4-2;
+console.log(resta);
 
 
 
