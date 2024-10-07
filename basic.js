@@ -115,7 +115,7 @@ console.log(comparision)
 let num3 = 1
 let num3AsString = "1"
 
-let result = //Realiza la operación de comparación que consideres entre las dos variables dadas, para que el resultado en consola sea false sin usar el comparador de desigualdad
+let result = 1 === "1";
 console.log(result) 
 
 //Ejercicio 14: completa el ejercicio
