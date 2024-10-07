@@ -93,7 +93,7 @@ let compare = 1 == 2;
 console.log(compare);
 
 
-// Ejercicio 10: Crea otra variable que compare las dos primeras variables creadas en el ejercicio anterior, para que el resultado impreso en la consola sea true.
+// Ejercicio 11: Crea otra variable que compare las dos primeras variables creadas en el ejercicio anterior, para que el resultado impreso en la consola sea true.
 
 //Escribe tu código aquí
 let elem1 = 1;
@@ -102,15 +102,15 @@ let elem3 = 1 !== 2;
 console.log(elem3);
 
 
-//Ejercicio 11: completa el ejercicio
+//Ejercicio 12: completa el ejercicio
 
 let num1 = 15
 let num2 = 20
 
-let comparision = //Realiza la operación de comparación que consideres para que el resultado en consola sea true
+let comparision = 15 !== 20;
 console.log(comparision)
 
-//Ejercicio 12: completa el ejercicio
+//Ejercicio 13: completa el ejercicio
 
 let num3 = 1
 let num3AsString = "1"
@@ -118,7 +118,7 @@ let num3AsString = "1"
 let result = //Realiza la operación de comparación que consideres entre las dos variables dadas, para que el resultado en consola sea false sin usar el comparador de desigualdad
 console.log(result) 
 
-//Ejercicio 13: completa el ejercicio
+//Ejercicio 14: completa el ejercicio
 
 let result2 = //Realiza la operación de comparación que consideres con las dos variables del ejercicio anterior para que el resultado en consola sea true.
 console.log(result2)
@@ -126,7 +126,7 @@ console.log(result2)
 
 
 //OPERADORES DE CADENAS
-//Ejercicio 14: Crea una variable con tu nombre y otra variable con tu apellido y crea otra nueva variable con tu nombre completo concatenando las dos variables anteriores e imprime en consola. Debe haber un espacio entre tu nombre y apellido.
+//Ejercicio 15: Crea una variable con tu nombre y otra variable con tu apellido y crea otra nueva variable con tu nombre completo concatenando las dos variables anteriores e imprime en consola. Debe haber un espacio entre tu nombre y apellido.
 
 //Escribe tu código aquí
 
@@ -135,7 +135,7 @@ console.log(result2)
 
 
 //OPERADORES DE LÓGICA
-//Ejercicio 15: Descomenta todo el bloque desde la variable 'a' hasta el 'console.log(res6)' y completa el ejercicio. (Saldrá un error y no podrás visualizar el resultado hasta que termines este ejercicio)
+//Ejercicio 16: Descomenta todo el bloque desde la variable 'a' hasta el 'console.log(res6)' y completa el ejercicio. (Saldrá un error y no podrás visualizar el resultado hasta que termines este ejercicio)
 
 /* let a = 6;
 let b = 3;
