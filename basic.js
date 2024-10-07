@@ -74,21 +74,23 @@ let y = 2;
 let z = 5 * 2;
 console.log(z);
 
-
-
 //Ejercicio 9: Crea una varible que divida 2 números e imprime el resultado en consola.
 
 //Escribe tu código aquí
-
-
+let elemento1 = 4;
+let elemento2 = 2;
+let elemento3 = 4 / 2;
+console.log(elemento3);
 
 
 //OPERADORES DE COMPARACIÓN
 // Ejercicio 10: Crea dos variables, la primera con valor 1 y la segunda con valor 2, compara ambas variables dentro de otra variable e imprime en la consola para ver el resultado.
 
 //Escribe tu código aquí
-
-
+let a = 1;
+let b = 2;
+let compare = 1 == 2;
+console.log(compare);
 
 
 // Ejercicio 10: Crea otra variable que compare las dos primeras variables creadas en el ejercicio anterior, para que el resultado impreso en la consola sea true.
