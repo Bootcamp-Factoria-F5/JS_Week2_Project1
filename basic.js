@@ -44,8 +44,10 @@ console.log (user);
 //Ejercicio 5: Busca como imprimir en consola el tipo de dato de cada variable que hemos creado.
 
 //Escribe tu código aquí
-
-
+console.log("Bienvenida al bootcamp de FemCoders de Factoría F5");
+console.log(numero);
+console.log(postres);
+console.log (user);
 
 
 //OPERADORES ARITMÉTICOS
