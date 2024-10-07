@@ -129,10 +129,11 @@ console.log(result2)
 //OPERADORES DE CADENAS
 //Ejercicio 15: Crea una variable con tu nombre y otra variable con tu apellido y crea otra nueva variable con tu nombre completo concatenando las dos variables anteriores e imprime en consola. Debe haber un espacio entre tu nombre y apellido.
 
-//Escribe tu código aquí
 
-
-
+let andreea = "Andreea";
+let celmare = "Celmare";
+let both = "Andreea" + " " + "Celmare";
+console.log(both);
 
 
 //OPERADORES DE LÓGICA
