@@ -25,7 +25,8 @@ console.log(numero);
 //Ejercicio 3: Crea una constante llamada postres con un tipo de dato array que contiene los siguientes elementos: helado, tarta, pastel e imprímelo en la consola. 
 
 //Escribe tu código aquí
-
+let postres = ["helado", "tarta", "pastel"];
+console.log(postres);
 
 
 
