@@ -69,7 +69,10 @@ console.log(resta);
 //Ejercicio 8: Crea una varible que multiplique 2 números e imprime el resultado en consola.
 
 //Escribe tu código aquí
-
+let x = 5;
+let y = 2;
+let z = 5 * 2;
+console.log(z);
 
 
 
