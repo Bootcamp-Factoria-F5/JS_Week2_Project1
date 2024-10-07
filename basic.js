@@ -119,8 +119,9 @@ let result = 1 === "1";
 console.log(result) 
 
 //Ejercicio 14: completa el ejercicio
-
-let result2 = //Realiza la operación de comparación que consideres con las dos variables del ejercicio anterior para que el resultado en consola sea true.
+let num4 = 1
+let num4AsString = "1"
+let result2 = 1 == "1";
 console.log(result2)
 
 
