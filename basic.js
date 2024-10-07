@@ -96,8 +96,10 @@ console.log(compare);
 // Ejercicio 10: Crea otra variable que compare las dos primeras variables creadas en el ejercicio anterior, para que el resultado impreso en la consola sea true.
 
 //Escribe tu código aquí
-
-
+let elem1 = 1;
+let elem2 = 2;
+let elem3 = 1 !== 2;
+console.log(elem3);
 
 
 //Ejercicio 11: completa el ejercicio
